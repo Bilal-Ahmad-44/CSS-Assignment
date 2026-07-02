@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+body {
+  /* background-image: url("./photo.jpg"); */
+  background-repeat: no-repeat;
+  /* in horizontal direction */
+  background-repeat: x;
+  /* in vertical direction */
+  background-repeat: y;
+}
